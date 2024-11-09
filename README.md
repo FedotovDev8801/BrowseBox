@@ -1,2 +1,2 @@
-# sturdy-octo-spork
+# BrowseBox
 An browser launcher utility!
